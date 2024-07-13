@@ -36,7 +36,7 @@ public class Main {
             for (int b = 0; b < 3; b++) {
                 matriksTranspose[a][b] = matriks1[b][a];
             }
-        }
+        }//
 
 
         System.out.println("Matriks transpose");
